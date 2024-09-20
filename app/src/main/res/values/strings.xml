@@ -1,0 +1,19 @@
+<resources>
+    <string name="PJATKAPP">PJATKAPP</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_placeholder">Name</string>
+    <string name="category_placeholder">Category</string>
+    <string name="quantity_placeholder">Quantity</string>
+    <string name="exp_date_placeholder">Expiration Date</string>
+    <string name="state_placeholder">State</string>
+    <string name="disposed_placeholder">Is Disposed</string>
+    <string name="_10">10</string>
+    <string name="suma" />
+    <string name="przeterminowany">przeterminowany</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="nazwa_produktu">Nazwa Produktu</string>
+    <string name="date_placeholder">....-..-..</string>
+    <string name="qty_placeholder">Ilość</string>
+    <string name="zapisz">Zapisz</string>
+
+</resources>
